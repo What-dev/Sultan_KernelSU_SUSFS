@@ -1,4 +1,4 @@
-# Wild Kernels for Android
+# Wild Kernels for Android With Changed Uname
 
 ## Your warranty is no longer valid!
 
@@ -14,12 +14,16 @@ By flashing this kernel, **YOU** are choosing to make these modifications. If so
 
 ---
 
-# Kernels:
+# Kernels Made By TheWildJames (Full credit to him btw!):
  
-[GKI](https://github.com/WildKernels/GKI_KernelSU_SUSFS)  
-[Sultan](https://github.com/WildKernels/Sultan_KernelSU_SUSFS)  
-[OnePlus](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)  
-[Legacy Pixels](https://github.com/WildKernels/Pixel_KernelSU_SUSFS)  
+[GKI](https://github.com/WildKernels/GKI_KernelSU_SUSFS) 
+
+[Sultan](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) <---- What I am Using Here! 
+
+[OnePlus](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS)
+
+[Legacy Pixels](https://github.com/WildKernels/Pixel_KernelSU_SUSFS) 
+
 
 ---
 
@@ -62,7 +66,7 @@ Special thanks to the open-source community for their contributions!
 
 # Support
 
-If you encounter any issues or need help, feel free to open an issue in this repository or reach out to me.
+No support, this is for my personal use so i dont have to spoof uname with susfs.
 
 ---
 
@@ -74,13 +78,10 @@ Flashing this kernel will void your warranty, and there is always a risk of bric
 
 ---
 
+# Credits
+
 [Telegram](https://t.me/TheWildJames)  
 [Telegram Group](https://t.me/WildKernels)  
 
-# Special thanks to the following people for their contributions!
-This helps me alot! <3
-
 [simonpunk](https://gitlab.com/simonpunk/susfs4ksu.git) - Created SUSFS!  
 [sidex15](https://github.com/sidex15) - Created module!
-
-If you have contributed and are not here please remind me!
